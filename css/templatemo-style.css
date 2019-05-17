@@ -40,9 +40,9 @@ a:focus {
 	padding-bottom: 40px;
 }
 
-.tm-main-nav { display: none; }
+.tm-main-nav,.tm-links { display: none; }
 
-.tm-main-nav-ul {
+.tm-main-nav-ul,.tm-links-ul {
 	display: inline-block;
 	padding-left: 0;
 }
@@ -156,7 +156,7 @@ textarea:-ms-input-placeholder {
 }
 
 @media (min-width: 992px) {
-	.tm-main-nav {
+	.tm-main-nav,.tm-links {
 		display: flex;
 		justify-content: center;
 	}
