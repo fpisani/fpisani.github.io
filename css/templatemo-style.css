@@ -139,7 +139,10 @@ textarea:-ms-input-placeholder {
 }
 
 .tm-contact-right {	padding-left: 15px; }
-.tm-copyright-p { margin-bottom: 0; }
+.tm-copyright-p {
+	margin-bottom: 0;
+	font-size: 0.9rem;
+}
 
 /* Media Queries */
 @media (min-width: 576px) {
