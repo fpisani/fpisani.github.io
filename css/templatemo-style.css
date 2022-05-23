@@ -40,6 +40,10 @@ a:focus {
 	padding-bottom: 40px;
 }
 
+.tm-logo-div img {
+	border-radius: 50%;
+}
+
 .tm-main-nav,.tm-links { display: none; }
 
 .tm-main-nav-ul,.tm-links-ul {
